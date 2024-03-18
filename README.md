@@ -3,3 +3,4 @@ This is a note of Machine Learning 2021 spring, a widely-honored course by Hung-
 The readers are expected to master modest amounts of basic calculus, linear algebra, probability, as well as programming. However, this course aims to give readers a rough but wide knowledge of ML, and mathematical rigor is considered secondary.  
 This note has been authorized by Prof. Lee. The webpage of the course is https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html.  
 For more information, you can download the PDF file and read the preface, epilogue and afterword.
+The corresponding slides are also in this repository.
